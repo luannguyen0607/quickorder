@@ -1,6 +1,6 @@
 # quickorder
 # How to run
-    - Open the project using Android Studio (Hedgehog or newer)
+    - Open the project using Android Studio (Meerkat or newer)
     - Let Gradle sync all dependencies
     - Run the app on an Android emulator or physical device (API 26+)
     - The app will launch directly to the Quick Order screen
